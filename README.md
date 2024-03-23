@@ -1,5 +1,5 @@
-# stackoverflow
-https://docs.google.com/document/d/1pOacO4mb_NoBhThXgGI7XlV7jtO9KkaL7A30eXk4nPk/edit < This google doc posesses all the info for the project description, major features, website overview, Task seperation, future task ideas and goals for each sprint. We will, however, summarize the relevant ones for this readme here:
+# Stack Overflow
+[This](https://docs.google.com/document/d/1pOacO4mb_NoBhThXgGI7XlV7jtO9KkaL7A30eXk4nPk/edit) google doc posesses all the info for the project description, major features, website overview, Task seperation, future task ideas and goals for each sprint. We will, however, summarize the relevant ones for this readme here:
 
 # Project Description
 
@@ -35,7 +35,7 @@ https://imgur.com/a/dRuVNge < Meeting screenshots
 When developing a core/feature implementation theres 3 parts:
  - UI/JS
  - Php
- - sql
+ - SQL
 
 To get/post information from the db can happen in 3 ways
  1. Through listing multiple items (like questions, answers, users). This will happen through JS
