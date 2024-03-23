@@ -3,11 +3,14 @@ https://docs.google.com/document/d/1pOacO4mb_NoBhThXgGI7XlV7jtO9KkaL7A30eXk4nPk/
 
 # Project Description
 
-OBJECTIVE: Program a Stack Overflow-like website.
+OBJECTIVE: Develop a Stack Overflow-like website.
 
 MAJOR FEATURES:
+
 1- Asking and Answering programming questions.
+
 2- Voting on Answers.
+
 3- Accept the best answer.
 
 DESCRIPTION: We as a team have to code and host a website similar to Stack Overflow. In it, users can log in, ask questions about programming, have those questions be answered by other users (logged in or not) and let users (logged in) vote on answers and questions. The user who asked the question can pick the best answer, causing their question to become “solved” and have a special status.
