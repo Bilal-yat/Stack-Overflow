@@ -1,0 +1,15 @@
+SELECT
+  Q.ID,
+  Q.userID,
+  Q.askedDate,
+  Q.title,
+  COUNT(A.ID) As totalAnswers
+FROM
+  Question Q
+LEFT JOIN Answer A on A.questionID = Q.ID
+WHERE A.userID = ?
+GROUP BY
+  Q.ID,
+  Q.userID,
+  Q.askedDate,
+  Q.title
