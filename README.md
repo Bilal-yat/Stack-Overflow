@@ -18,9 +18,7 @@ DESCRIPTION: We as a team have to code and host a website similar to Stack Overf
 LANGUAGES: Php, Javascript, HTML, CSS, MySQL, possibly more
 
 ## Meetings
-As this is a private repository, we do not have the capability to write a wiki - we will correct this for the first sprint, but for now I will share screenshots of the important parts of our meeting on discord:
-
-https://imgur.com/a/dRuVNge < Meeting screenshots
+A record of all meetings including the meeting minutes can be found on the project's [wiki](https://github.com/Bilal-yat/StackOverflow/wiki)
 
 ## Team Members:
 - Meet Vora (40155271) / GitHub ID: Itsmeeeet
